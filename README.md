@@ -9,6 +9,7 @@
 - python 3,
 - pandas,
 - numpy,
+- scipy,
 - matplotlib,
 - seaborn,
 - sklearn,
